@@ -1,7 +1,7 @@
 name: CHreative
 favicon: null
-layout_spectrum: 0.14683222607709467
-typography_spectrum: 0.40046461927704513
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#f2f2f2'
+    - '#272727'
+    - '#c6c6c6'
+    - '#797979'
+    - '#5c5c5c'
   brandStrength: 0.18383502634242177
   lightness: 0.4322341026272625
   saturation: 0.9854474095627666
